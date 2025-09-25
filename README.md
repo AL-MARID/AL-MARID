@@ -33,6 +33,9 @@ My passion for cybersecurity always drives me to learn and try everything new.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 My GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AL-MARID&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
-# AL-MARID
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-MARID&layout=compact&bg_color=000000&title_color=0066ff&text_color=ffffff&border_color=0066ff&border_radius=10)
+
