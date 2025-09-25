@@ -1,8 +1,3 @@
-# Hi there! 👋 I'm AL-MARID  
-
-A cybersecurity expert working under the name "The Hacker" 💻
-My passion for cybersecurity always drives me to learn and try everything new.  
-
 ### 🔹 Programming Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
