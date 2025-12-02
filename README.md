@@ -29,7 +29,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AL-MARID&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=AL-MARID&show_icons=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AL-MARID&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AL-MARID&theme=github_dark)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-MARID&layout=compact&bg_color=000000&title_color=0066ff&text_color=ffffff&border_color=0066ff&border_radius=10)
